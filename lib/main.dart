@@ -47,17 +47,17 @@ Future main() async {
   }
   runApp(
     MaterialApp(
-        debugShowCheckedModeBanner: false,
-        home: //
-            const MyApp(),
-            // Home()
-            // CreateAccount(phone: '1234567890')
-            // Contact(),
-            // Policies()
-            // pressKit()
-            // AboutUs()
-        // Result(search: ''),
-        ),
+      debugShowCheckedModeBanner: false,
+      home: //
+          const MyApp(),
+      // Home()
+      // CreateAccount(phone: '1234567890')
+      // Contact(),
+      // Policies()
+      // pressKit()
+      // AboutUs()
+      // Result(search: ''),
+    ),
   );
 }
 
